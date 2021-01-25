@@ -29,3 +29,5 @@ computador coletado ............................................................
 5.10. Queira o sr perito identificar se há indícios de um possível planejamento
 para a prática de homicídio ..................................................................................... 17
 6. CONCLUSÃO ....................................................................................................... 19
+
+Colaborando diretamente com todas as requisições .
